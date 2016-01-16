@@ -1,0 +1,59 @@
+body{
+	background: gray	;
+	margin: 0 auto;
+	width: 70%;
+}
+
+header h1{
+	text-align: center;
+	border: solid 0px;
+	background: black;
+	color: white;
+	border-radius: 20px 20px 20px 20px;
+	font-size: 50px	
+}
+/*NAV*/
+
+nav{
+	width:  13%;
+	display : inline;
+	float: left;
+	background: orange;
+	padding-bottom: 200px;
+	border-radius: 20px 20px 20px 20px;
+}
+nav h2 {
+	text-align: center;
+}
+
+/*main*/
+main{
+	background: white;
+	width: 85%;
+	float: left;
+	border-radius: 20px 20px 20px 20px;
+	margin: 0px 0px 0px 10px
+}
+/*articulo*/
+	/*header del articulo*/
+header h2{
+	text-align: center;
+}
+li{
+	display: block;
+}
+article p{
+	margin: 0px 10px 0px 20px
+}
+  
+
+.comentario {
+	font-style: italic;
+	color: #A8B8C6;
+	border: solid 1px;
+	margin: 10px 30px 10px 30px;
+}
+
+article article time{color:red;}
+	
+input{margin: 0px 0px 0px 20px}
